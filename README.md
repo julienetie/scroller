@@ -1,3 +1,8 @@
+Tracker
+==============
+> Tracker is a fork of Zynga Scroller. The documentation below is of the orignal library.
+
+
 Zynga Scroller
 ==============
 
